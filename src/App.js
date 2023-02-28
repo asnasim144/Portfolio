@@ -1,3 +1,4 @@
+import "./css.css"
 
 function App() {
   return (
